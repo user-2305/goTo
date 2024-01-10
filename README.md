@@ -1,5 +1,5 @@
 # goTo
-
+```java
 public class Main extends JFrame {
 
     public static void main(String[] args) throws IOException {
@@ -56,3 +56,4 @@ public class MyFrame extends JFrame implements KeyListener {
 
     }
 }
+```
